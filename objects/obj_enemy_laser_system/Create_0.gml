@@ -10,3 +10,4 @@ hp_radius=36
 image_speed=0
 
 container = noone
+path_start(0, 0, path_action_stop, true)

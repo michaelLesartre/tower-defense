@@ -1,4 +1,4 @@
-draw_self()
+draw_sprite_ext(sprite_index, image_index, x, y, 1, 1, direction, c_white, 1)
 draw_healthbar(x-22, y-30, x-30, y+30, hp*100/max_hp, 0, c_red, c_green, 2, false, true)
 drawy = y-30;
 repeat(max_hp+1){
