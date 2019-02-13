@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "f8e5b273-1665-45c8-a5eb-5b2ed24f1526",
+            "Value": {
+                "id": "55dc638c-35c9-441d-ba86-abb79020917a",
+                "resourcePath": "sprites\\spr_tower_wall\\spr_tower_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fbd63c7a-2304-41be-a267-437768e1fccd",
             "Value": {
                 "id": "4226de93-88bc-486b-adac-d5b8f33c115c",
