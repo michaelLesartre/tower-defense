@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "589f6dc3-2c71-45e6-8938-0ccadd749d87",
+            "Value": {
+                "id": "3ce0cde2-8432-4502-8561-c21c612c45d0",
+                "resourcePath": "sprites\\spr_tower_ion\\spr_tower_ion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e038c25-1dc3-4b70-a1e4-47a63f2a170f",
             "Value": {
                 "id": "a2493a7b-02e9-4b36-bc8d-50f8dcdeebf5",
@@ -276,6 +284,14 @@
                 "id": "2b7a9fb5-0243-493c-9de1-dffa6f4843ca",
                 "resourcePath": "views\\ab9a1831-ea27-4b81-917d-00426f2ba4e3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4e6bc16-eece-4334-b8cf-9fc9a520a46c",
+            "Value": {
+                "id": "e8b344c0-ad50-4261-ae1e-f8bc9b968ae7",
+                "resourcePath": "sprites\\spr_tower_shield\\spr_tower_shield.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
