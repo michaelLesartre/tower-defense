@@ -2,7 +2,12 @@
 // You can write your code in this editor
 duration-=1;
 if (instance_exists(target)){
-	target.hp-= 1/max_duration
+	if(object_is_ancestor(target.object_index, obj_subsystem) and instance_exists(target.container) and target.container.shielded>0){
+		target.container.shielded -= 1/max_duration
+	}
+	else{
+		target.hp-= 1/max_duration
+	}
 }
 if (duration==0){
 	instance_destroy(self)
