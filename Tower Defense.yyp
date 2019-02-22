@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "23c77a90-2e36-45cf-9590-0086ef6c76b0",
+            "Value": {
+                "id": "917b266e-04c8-45d7-bb6e-47769e264b0f",
+                "resourcePath": "objects\\obj_spawn_system\\obj_spawn_system.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "263c2a8e-8cd2-4cd7-894c-e8fd7a1bf1df",
             "Value": {
                 "id": "09fe1035-29d1-4524-8477-10f9cba5bd84",
@@ -263,10 +271,26 @@
             }
         },
         {
+            "Key": "95671d61-534e-41ba-a37e-356bfc600c9a",
+            "Value": {
+                "id": "64e46fb7-9953-4963-af04-02c76ae9c386",
+                "resourcePath": "sprites\\spr_spawn\\spr_spawn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "957e3f5d-3f8f-489b-89ab-245ecb6bff63",
             "Value": {
                 "id": "65dfd8a9-1918-4fd4-97fb-2c9cd1128525",
                 "resourcePath": "objects\\obj_tower_laser\\obj_tower_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a26db757-39af-4e93-b10f-0a32e9b2bbd9",
+            "Value": {
+                "id": "461ff7c7-55d4-4efe-9811-4aa458d38017",
+                "resourcePath": "objects\\obj_enemy_spawn\\obj_enemy_spawn.yy",
                 "resourceType": "GMObject"
             }
         },
