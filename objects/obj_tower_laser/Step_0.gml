@@ -18,3 +18,11 @@ if !destroyed{
 		charge=0
 	}
 }
+
+if destroyed {
+	respawn ++;
+	if respawn == respawn_step_time {
+		instance_create_layer(x, y, "instances", obj_tower_laser);
+		instance_destroy(self);
+	}
+}

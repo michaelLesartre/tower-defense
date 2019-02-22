@@ -156,9 +156,9 @@
                 "id": "2f361cb5-c98d-4fdb-ae54-2b366ba045d3",
                 "resourcePath": "objects\\obj_shield_system\\obj_shield_system.yy",
                 "resourceType": "GMObject"
-			}
-		},
-		{
+            }
+        },
+        {
             "Key": "589f6dc3-2c71-45e6-8938-0ccadd749d87",
             "Value": {
                 "id": "3ce0cde2-8432-4502-8561-c21c612c45d0",
