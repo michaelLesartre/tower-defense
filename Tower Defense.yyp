@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1db190f6-94ea-4467-a348-949d02cb1a53",
+            "Value": {
+                "id": "f46e0a35-455c-4f8b-9db9-3b1b74ffb456",
+                "resourcePath": "objects\\obj_healbeam\\obj_healbeam.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22d7f8c5-6e43-41d5-9a06-c5e5eed831a0",
             "Value": {
                 "id": "c47f6a28-9d94-4581-aa14-0c3a3c2a72e2",
@@ -108,6 +116,14 @@
                 "id": "100fec09-b301-4e0f-9faf-698f1b9eb946",
                 "resourcePath": "sprites\\spr_tower\\spr_tower.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "309a9b15-ce77-4ca2-b5cc-144c7269cd0b",
+            "Value": {
+                "id": "e9eb76e6-a695-47f8-b432-b090dcf1826c",
+                "resourcePath": "objects\\obj_enemy_repair\\obj_enemy_repair.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -267,6 +283,14 @@
             "Value": {
                 "id": "50e32b16-87d5-4207-9838-a2300b0b3025",
                 "resourcePath": "objects\\obj_subsystem\\obj_subsystem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ffffadc-ab3d-4de2-bc88-1febf841879f",
+            "Value": {
+                "id": "c1191c6f-36b0-47be-bb65-6b078f6dbbb7",
+                "resourcePath": "objects\\obj_repair_system\\obj_repair_system.yy",
                 "resourceType": "GMObject"
             }
         },

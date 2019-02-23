@@ -12,7 +12,7 @@ if(charge<max_charge){
 }
 else{
 	if (target!=noone){
-		new_laser = instance_create_layer(x,y, "instances", obj_laser);
+		new_laser = instance_create_layer(x,y, "lasers", obj_laser);
 		new_laser.target=target;
 		charge=0
 	}

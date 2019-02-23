@@ -13,7 +13,7 @@ else{
 
 if !destroyed{
 	if charge==10 and instance_exists(target){
-		new_laser = instance_create_layer(x,y-34, "instances", obj_laser);
+		new_laser = instance_create_layer(x,y-34, "lasers", obj_laser);
 		new_laser.target=target;
 		charge=0
 	}
