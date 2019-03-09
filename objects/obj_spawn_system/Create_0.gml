@@ -1,13 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
-max_hp = 3;
+max_hp = 4;
 hp = max_hp;
+charge=0
+base_max_charge = 300;
+max_charge = base_max_charge
+overloaded = false
+
 hp_thickness = 9
 hp_radius=36
 
-max_num_minions = 2;
-spawn_step_time = 300;
-alarm[0] = spawn_step_time;
+minion[0] = noone
+minion[1] = noone
 
 // the coordinates of the start of the path
 path_x = 0;

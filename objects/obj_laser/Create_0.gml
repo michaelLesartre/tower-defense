@@ -3,3 +3,4 @@
 max_duration=20
 duration=max_duration
 target=noone
+color = c_red

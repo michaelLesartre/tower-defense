@@ -1,5 +1,15 @@
 /// @description aim at current target
 // You can write your code in this editor
+if(hp<=max_hp/2 and not overloaded){
+	overloaded=true
+	image_blend = c_ltgray
+}
+else{
+	if(hp>max_hp/2 and overloaded){
+		overloaded=false
+		image_blend = c_white
+	}
+}
 
 target = find_best_target(x, y, obj_tower, targeting_num)
 if (target!=noone){
@@ -15,6 +25,13 @@ else{
 		new_laser = instance_create_layer(x,y, "lasers", obj_laser);
 		new_laser.target=target;
 		charge=0
+		if overloaded{
+			new_laser.color = c_white
+			new_laser = instance_create_layer(x,y, "lasers", obj_laser);
+			new_laser.target=target;
+			new_laser.color = c_white
+			hp-=1
+		}
 	}
 }
 

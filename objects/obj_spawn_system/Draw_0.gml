@@ -1,6 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_self();
+if(overloaded){
+	c = c_red
+}
+else{
+	c = c_white
+}
+draw_circle_color(x,y, 32*charge/max_charge,c,c_fuchsia, false)
 draw_health_ring(x, y, hp_radius, hp_thickness, 100, hp*100/max_hp, 0, 360, 1, c_green)
 angle=0
 l1 = hp_radius

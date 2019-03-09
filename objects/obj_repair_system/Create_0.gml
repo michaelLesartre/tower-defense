@@ -4,6 +4,7 @@ max_hp = 4;
 hp = max_hp;
 
 base_max_charge = 360
+max_charge = base_max_charge
 charge=0
 overloaded=false
 

@@ -1,6 +1,7 @@
 // You can write your code in this editor
 max_hp = 5
 hp = max_hp;
+overloaded=false
 targeting_num = 0;
 base_max_charge = 180;
 max_charge = base_max_charge
