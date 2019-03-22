@@ -1,0 +1,15 @@
+/// @description Insert description here
+// You can write your code in this editor
+max_hp = 6;
+hp = max_hp;
+
+base_max_charge = 240
+max_charge = base_max_charge
+charge=0
+overloaded=false
+
+hp_thickness = 9
+hp_radius=36
+
+container = noone
+path_start(0, 0, path_action_stop, false)

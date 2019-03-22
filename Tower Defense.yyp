@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "19ebcaaa-c8a7-47c5-ab46-1186c366f171",
+            "Value": {
+                "id": "fb9dfc42-ea28-4b96-9c93-5b019a5782c0",
+                "resourcePath": "objects\\obj_drive_minion\\obj_drive_minion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1be19aea-054e-475f-a2d6-1040f8a87d85",
             "Value": {
                 "id": "c484c388-217c-4e3b-bac7-54f773f9e583",
@@ -191,11 +199,51 @@
             }
         },
         {
+            "Key": "3c04e843-d554-43b2-b0dd-cf9e74a818f7",
+            "Value": {
+                "id": "b764608a-f315-48cf-9b72-5634caf21b2b",
+                "resourcePath": "objects\\obj_drive_repair\\obj_drive_repair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "406a3558-2801-443a-a398-dc8bb6edac7a",
+            "Value": {
+                "id": "65b80bcd-8955-449c-b2db-a057f4fe06ab",
+                "resourcePath": "objects\\obj_shield_tank\\obj_shield_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4230182a-01f8-47c6-acd6-df14e1c3ed53",
             "Value": {
                 "id": "21d353d2-ff82-4e2a-a2b7-4f9cf5cf889f",
                 "resourcePath": "sprites\\spr_tank\\spr_tank.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "433a203b-cb52-4e75-80df-766d4d74a9b6",
+            "Value": {
+                "id": "7784d6c0-d340-4a74-bf66-6b6303f82c8e",
+                "resourcePath": "objects\\obj_shield_repair\\obj_shield_repair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "45bc3630-d12b-4e49-b1c1-7c8200dd9307",
+            "Value": {
+                "id": "afe3b413-aab8-4921-9594-14b43506cff7",
+                "resourcePath": "objects\\obj_drive_swift\\obj_drive_swift.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "460330a2-4881-44f0-bdbd-aad2fe5122d8",
+            "Value": {
+                "id": "eca458c1-8f65-4fff-b035-7af19bb5cb98",
+                "resourcePath": "objects\\obj_enemy_laser_minion\\obj_enemy_laser_minion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -247,11 +295,35 @@
             }
         },
         {
+            "Key": "5f17348f-6f33-4126-a12c-5e06f9550375",
+            "Value": {
+                "id": "e34e86f3-3b9d-4735-8f2b-f10c0f8274a3",
+                "resourcePath": "objects\\obj_enemy_laser_tank\\obj_enemy_laser_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "62032aae-5724-448b-b3e1-3f7dd55a7554",
             "Value": {
                 "id": "a6df1c0d-38c0-46eb-9aa4-06da8fefb99b",
                 "resourcePath": "views\\62032aae-5724-448b-b3e1-3f7dd55a7554.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6495edd2-d924-4fb6-b1a6-23b6b5873e61",
+            "Value": {
+                "id": "1e0e584f-5aed-4e1c-8bb4-3bf717ae2064",
+                "resourcePath": "objects\\obj_shield_swift\\obj_shield_swift.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "65901bc6-7a11-4f3c-b54d-8b5d0d7b88d6",
+            "Value": {
+                "id": "93ae5676-8c4c-4828-88b7-7d8ba49a2849",
+                "resourcePath": "objects\\obj_shield_spawn\\obj_shield_spawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -295,6 +367,14 @@
             }
         },
         {
+            "Key": "6f6ce9a4-6e1d-41e9-8e7f-86c91a0dbf2a",
+            "Value": {
+                "id": "9c49d1cf-795c-4459-bca6-388f3ae680db",
+                "resourcePath": "objects\\obj_enemy_laser_repair\\obj_enemy_laser_repair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ffc2608-0256-4746-bfdb-8379590963f5",
             "Value": {
                 "id": "fec5d688-bae6-4dea-9ca8-daef755573c8",
@@ -331,6 +411,14 @@
             "Value": {
                 "id": "bc5607c4-6971-4acf-a023-540f26fbacdf",
                 "resourcePath": "objects\\obj_drive_system\\obj_drive_system.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76a236ff-1d0c-45c7-9fc0-647bf4739cfb",
+            "Value": {
+                "id": "5312a497-924c-4ba5-b4e4-a7866d635900",
+                "resourcePath": "objects\\obj_enemy_laser_spawn\\obj_enemy_laser_spawn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -511,6 +599,14 @@
             }
         },
         {
+            "Key": "cb4f0433-8fcd-48f4-8de1-e1ff26ef9af7",
+            "Value": {
+                "id": "53bf95f2-ca5a-4e0d-8cc7-4bce3bab38e6",
+                "resourcePath": "objects\\obj_enemy_swift\\obj_enemy_swift.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "ef748b19-4221-4da1-b155-ac999caa3429",
@@ -524,6 +620,14 @@
                 "id": "5cae6ddd-d92e-4d65-abae-f84c7d47d815",
                 "resourcePath": "sprites\\spr_laser_spawn\\spr_laser_spawn.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d27967c3-a00f-4ee0-b357-ade5acf230c0",
+            "Value": {
+                "id": "3778d96b-c58e-4892-adf4-68e3987cb227",
+                "resourcePath": "objects\\obj_enemy_minion\\obj_enemy_minion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -615,6 +719,22 @@
             }
         },
         {
+            "Key": "e8f8eb7d-9a55-416e-b35f-a38ac8008e5a",
+            "Value": {
+                "id": "0b3ab2b8-ce9c-4f3f-ba2f-32df757d2b41",
+                "resourcePath": "objects\\obj_drive_spawn\\obj_drive_spawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb44658b-065b-4fed-bb3c-7b55d111ce6a",
+            "Value": {
+                "id": "bcb7a767-fd73-47bc-9822-172f1023020c",
+                "resourcePath": "objects\\obj_drive_tank\\obj_drive_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb85f44c-4cfe-4bc7-9d57-ed27b38c246c",
             "Value": {
                 "id": "f9a1add7-e0b0-4c5e-a1e9-b48566fc1eb3",
@@ -652,6 +772,22 @@
                 "id": "248e67a0-86d6-4d4c-a48c-2a432ab4f9e3",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5b26df5-f656-472b-8aea-92e1a7fa2081",
+            "Value": {
+                "id": "97650258-9a79-4855-b546-342c9bdecb9c",
+                "resourcePath": "objects\\obj_enemy_laser_swift\\obj_enemy_laser_swift.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f6dbedfa-961b-4c3e-861f-ac0f39c0dfa7",
+            "Value": {
+                "id": "bd5046e4-febe-4ef5-ad49-d4bc1aa146c4",
+                "resourcePath": "objects\\obj_enemy_tank\\obj_enemy_tank.yy",
+                "resourceType": "GMObject"
             }
         },
         {

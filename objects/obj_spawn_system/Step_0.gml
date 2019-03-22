@@ -20,7 +20,7 @@ if not (instance_exists(minion[0]) and instance_exists(minion[1])){
 		else{
 			ydiff = -128
 		}
-		type = obj_enemy_simple
+		type = obj_enemy_minion
 		if(overloaded){
 			type = obj_enemy_shielded
 			hp--;

@@ -1,10 +1,10 @@
-/// @description Enemy with spawn, shield, laser, and drive
+/// @description Enemy with repair, shield, laser, and drive
 // You can write your code in this editor
 path_start(0, 0, path_action_stop, true)
-weapons = instance_create_layer(x, y+32, "instances", obj_enemy_laser_system);
-shields = instance_create_layer(x, y-32, "instances", obj_shield_system)
+weapons = instance_create_layer(x, y+32, "instances", obj_enemy_laser_repair);
+shields = instance_create_layer(x, y-32, "instances", obj_shield_repair)
 repair = instance_create_layer(x + 40, y, "instances", obj_repair_system);
-drive = instance_create_layer(x, y, "instances", obj_drive_system);
+drive = instance_create_layer(x, y, "instances", obj_drive_repair);
 components = ds_list_create();
 ds_list_add(components, repair);
 ds_list_add(components, weapons);
