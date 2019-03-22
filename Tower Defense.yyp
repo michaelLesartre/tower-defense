@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "00039469-bcf9-4eca-a0d6-790d5230ad7e",
+            "Value": {
+                "id": "6364cb56-ce98-4f57-9233-1fb3845b4e82",
+                "resourcePath": "sprites\\spr_drive_repair\\spr_drive_repair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "08269239-188d-4dbf-b3f4-ccd023523b49",
+            "Value": {
+                "id": "3a26b82a-9947-4067-8e80-b872763a7c95",
+                "resourcePath": "sprites\\spr_laser_minion\\spr_laser_minion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c14dac8-248c-4998-b82a-3a8105d4ca2b",
             "Value": {
                 "id": "846b9c52-468b-4e18-af4a-4f7df4ecddac",
@@ -123,6 +139,14 @@
             "Value": {
                 "id": "100fec09-b301-4e0f-9faf-698f1b9eb946",
                 "resourcePath": "sprites\\spr_tower\\spr_tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d9b939e-ff33-4de3-aed1-6880d817cd7c",
+            "Value": {
+                "id": "bfdeda70-9661-42da-86aa-312a0eb435dc",
+                "resourcePath": "sprites\\spr_shield_swift\\spr_shield_swift.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -295,6 +319,14 @@
             }
         },
         {
+            "Key": "72819b9d-6301-442b-a3de-ec1293552bcd",
+            "Value": {
+                "id": "b92047b0-e27a-4696-900b-f9d7f1b9de70",
+                "resourcePath": "sprites\\spr_drive_spawn\\spr_drive_spawn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "757a185f-aac4-4bd3-8dc8-f84dc9edb63a",
             "Value": {
                 "id": "bc5607c4-6971-4acf-a023-540f26fbacdf",
@@ -308,6 +340,22 @@
                 "id": "0052142c-a34d-48fb-b896-2ebe1c24818e",
                 "resourcePath": "views\\7728b26a-0d57-4c2c-b889-794dcbdfa54b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "791213a2-0661-4eb3-acf3-52c74f779578",
+            "Value": {
+                "id": "ea1f55bf-0c6b-4327-a9eb-42cb98b7056c",
+                "resourcePath": "sprites\\spr_drive_tank\\spr_drive_tank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "829c7479-580f-4c08-8622-3641453247fa",
+            "Value": {
+                "id": "ca4746c1-ee8b-457f-a0c7-0e845f3cf520",
+                "resourcePath": "sprites\\spr_laser_tank\\spr_laser_tank.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +439,14 @@
             }
         },
         {
+            "Key": "ad3390a3-03b6-444e-b95c-0a46cf5442d2",
+            "Value": {
+                "id": "1008cd21-99c5-464a-a447-be4f32574591",
+                "resourcePath": "sprites\\spr_shield_tank\\spr_shield_tank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4e6bc16-eece-4334-b8cf-9fc9a520a46c",
             "Value": {
                 "id": "e8b344c0-ad50-4261-ae1e-f8bc9b968ae7",
@@ -412,6 +468,14 @@
                 "id": "75ce70a5-af26-432f-b65a-ef925f686990",
                 "resourcePath": "objects\\object_controls\\object_controls.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb9a708f-d59b-41a0-ac3f-15fb0de00035",
+            "Value": {
+                "id": "506e1146-432d-4497-a8d1-2eed77523117",
+                "resourcePath": "sprites\\spr_laser_repair\\spr_laser_repair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -452,6 +516,14 @@
                 "id": "ef748b19-4221-4da1-b155-ac999caa3429",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf0f1b09-521f-40fe-b1e0-93609e1d8171",
+            "Value": {
+                "id": "5cae6ddd-d92e-4d65-abae-f84c7d47d815",
+                "resourcePath": "sprites\\spr_laser_spawn\\spr_laser_spawn.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,6 +575,14 @@
             }
         },
         {
+            "Key": "dee800ca-1738-4913-b0c3-f1b51e598d1e",
+            "Value": {
+                "id": "73015191-7d4a-4bf1-90fe-50b0a24bbc95",
+                "resourcePath": "sprites\\spr_shield_spawn\\spr_shield_spawn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df130b8c-f3fe-4f19-99a5-3928690b3d0d",
             "Value": {
                 "id": "08e37c38-ec20-4941-a02d-8c57f74ed568",
@@ -519,11 +599,43 @@
             }
         },
         {
+            "Key": "e64ee0e2-e794-446b-ab38-d8a861b33e1b",
+            "Value": {
+                "id": "04bfc968-726c-4e2e-b91d-37d81465d8d1",
+                "resourcePath": "sprites\\spr_shield_repair\\spr_shield_repair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e81d4d75-cbb7-47a4-8028-a93756972b8c",
             "Value": {
                 "id": "dbba986a-a9b9-4c78-a18c-fcf5ad189a8a",
                 "resourcePath": "views\\e81d4d75-cbb7-47a4-8028-a93756972b8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb85f44c-4cfe-4bc7-9d57-ed27b38c246c",
+            "Value": {
+                "id": "f9a1add7-e0b0-4c5e-a1e9-b48566fc1eb3",
+                "resourcePath": "sprites\\spr_drive_minion\\spr_drive_minion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef693391-8ce5-47a2-b5a0-f89a5f132305",
+            "Value": {
+                "id": "177e1bc8-0ec4-4f33-9197-4e91f8b9ab35",
+                "resourcePath": "sprites\\spr_drive_swift\\spr_drive_swift.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1a974d1-f268-4f98-8523-4a912de58b9a",
+            "Value": {
+                "id": "3f8e63f1-2230-4494-94e5-49a5d590d450",
+                "resourcePath": "sprites\\spr_laser_swift\\spr_laser_swift.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
