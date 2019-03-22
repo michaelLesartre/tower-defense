@@ -15,7 +15,7 @@ minion[1] = noone
 
 // the coordinates of the start of the path
 path_x = 0;
-path_y = 608;
+path_y = 800;
 
 container = noone
 path_start(0, 0, path_action_stop, false)
