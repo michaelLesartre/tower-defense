@@ -11,5 +11,8 @@ hp_thickness = 9
 hp_radius=36
 image_speed=0
 
+ion=false;
+ion_timer_max=200;
+
 container = noone
 path_start(0, 0, path_action_stop, false)

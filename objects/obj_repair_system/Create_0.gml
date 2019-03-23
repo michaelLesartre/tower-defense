@@ -8,6 +8,9 @@ max_charge = base_max_charge
 charge=0
 overloaded=false
 
+ion=false;
+ion_timer_step=400;
+
 hp_thickness = 9
 hp_radius=36
 

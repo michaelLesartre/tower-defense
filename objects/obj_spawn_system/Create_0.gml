@@ -10,6 +10,9 @@ overloaded = false
 hp_thickness = 9
 hp_radius=36
 
+ion=false;
+ion_timer_step=600;
+
 minion[0] = noone
 minion[1] = noone
 

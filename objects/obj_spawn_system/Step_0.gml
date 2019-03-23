@@ -11,7 +11,11 @@ else{
 
 max_charge = base_max_charge*max_hp/hp
 
-if not (instance_exists(minion[0]) and instance_exists(minion[1])){
+if(ion){
+	if(alarm[0]==-1)
+		alarm[0]=ion_timer_step;
+}
+else if not (instance_exists(minion[0]) and instance_exists(minion[1])){
 	charge++;
 	if charge>=max_charge{
 		if not instance_exists(minion[0]){

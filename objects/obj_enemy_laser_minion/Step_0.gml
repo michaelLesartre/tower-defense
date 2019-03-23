@@ -17,7 +17,11 @@ if (target!=noone){
 }
 
 max_charge = base_max_charge * max_hp/hp
-if(charge<max_charge){
+if(ion){
+	if(alarm[0]==-1)
+		alarm[0]=ion_timer_max;
+}
+else if(charge<max_charge){
 	charge++
 }
 else{

@@ -15,7 +15,7 @@ max_charge = base_max_charge*max_hp/hp
 
 
 if(instance_exists(container)){
-	if (container.shielded < container.max_shield){
+	if (container.shielded < container.max_shield&&!ion){
 		charge++
 		if(charge>=max_charge){
 			container.shielded++
@@ -28,6 +28,8 @@ if(instance_exists(container)){
 		}
 	}
 	else {
+		if(ion&&alarm[0]==-1)
+			alarm[0]=ion_timer_step;
 		charge=0
 	}
 	
