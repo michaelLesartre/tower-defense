@@ -1,9 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy(weapons);
-instance_destroy(shields);
-instance_destroy(drive);
-instance_destroy(spawn);
-ds_list_clear(components);
-ds_list_destroy(components);
-instance_destroy(self);
+for(index=0;index<ds_list_size(components); index++){
+	if(instance_exists(components[| index])){
+		instance_destroy(components[| index])
+		global.playerhealth-=6
+	}
+}
+
+instance_destroy()
