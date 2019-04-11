@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "3548b7a7-0fd4-4e10-9731-e935bc0766d2",
+            "Value": {
+                "id": "d65dcba0-4d19-4619-b99e-521b00b58e93",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a9728c2-8a21-42d4-b6c6-da62a3caff20",
             "Value": {
                 "id": "4ed9ddf0-1474-407c-993e-fd115d9e06ed",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "8ff3ba95-b20c-4b70-9632-3f2e83fcd4d7",
+            "Value": {
+                "id": "30e5cb0c-fea2-41bf-a464-e52818dc9c66",
+                "resourcePath": "paths\\path2\\path2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "8ffffadc-ab3d-4de2-bc88-1febf841879f",
             "Value": {
                 "id": "c1191c6f-36b0-47be-bb65-6b078f6dbbb7",
@@ -748,6 +764,14 @@
                 "id": "4eaabfb8-5cea-42d3-a47c-c95b30054c64",
                 "resourcePath": "sprites\\spr_tower_d\\spr_tower_d.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd8c8625-2578-4740-8b66-64c6e9d2b5fd",
+            "Value": {
+                "id": "89416d74-77ce-4309-8c0e-fca08c553798",
+                "resourcePath": "timelines\\Level2\\Level2.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
