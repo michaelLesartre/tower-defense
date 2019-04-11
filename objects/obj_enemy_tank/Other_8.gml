@@ -3,7 +3,7 @@
 for(index=0;index<ds_list_size(components); index++){
 	if(instance_exists(components[| index])){
 		instance_destroy(components[| index])
-		global.playerhealth-=6
+		global.playerhealth-=global.enemydamage
 	}
 }
 

@@ -1,6 +1,6 @@
 /// @description Enemy with spawn, shield, laser, and drive
 // You can write your code in this editor
-path_start(0, 0, path_action_stop, true)
+path_start(global.enemypath, 0, path_action_stop, true)
 weapons = instance_create_layer(x, y+32, "instances", obj_enemy_laser_spawn);
 shields = instance_create_layer(x, y-32, "instances", obj_shield_spawn)
 spawn = instance_create_layer(x + 40, y, "instances", obj_spawn_system);

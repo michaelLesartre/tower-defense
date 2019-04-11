@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-path_start(0, 0, path_action_stop, false)
+path_start(global.enemypath, 0, path_action_stop, false)
 weapons = instance_create_layer(x, y+32, "instances", obj_enemy_laser_swift);
 shields = instance_create_layer(x, y-32, "instances", obj_shield_swift)
 drive = instance_create_layer(x, y, "instances", obj_drive_swift);

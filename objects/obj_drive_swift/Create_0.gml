@@ -11,4 +11,4 @@ ion_timer_max=600;
 ion=false;
 
 container = noone
-path_start(0, 0, path_action_stop, false)
+path_start(global.enemypath, 0, path_action_stop, false)

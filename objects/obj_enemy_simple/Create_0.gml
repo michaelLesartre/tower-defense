@@ -7,6 +7,6 @@ ds_list_add(components, weapons);
 ds_list_add(components, drive);
 drive.container = self
 weapons.container = self
-path_start(0, 0, path_action_stop, false)
+path_start(global.enemypath, 0, path_action_stop, false)
 shielded=0
 max_shield=0

@@ -21,4 +21,4 @@ path_x = 0;
 path_y = 800;
 
 container = noone
-path_start(0, 0, path_action_stop, false)
+path_start(global.enemypath, 0, path_action_stop, false)

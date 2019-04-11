@@ -16,4 +16,4 @@ hp_thickness = 9
 hp_radius=36
 
 container = noone
-path_start(0, 0, path_action_stop, false)
+path_start(global.enemypath, 0, path_action_stop, false)

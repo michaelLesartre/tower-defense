@@ -5,6 +5,9 @@ if (global.playerhealth<1){
 	game_restart()
 }
 else if (instance_number(obj_subsystem)==0 and timeline_position>timeline_max_moment(timeline_index)){
-	show_message("You have held of the mechanical onslaught. Congratulations!")
-	game_restart()
+	room_goto_next()
+	curr_level++;
+	global.enemypath++;
+	timeline_index = levels[curr_level]
+	timeline_position = 0
 }

@@ -2,7 +2,7 @@
 // You can write your code in this editor
 duration-=1;
 if (instance_exists(target)){
-	if(object_is_ancestor(target.object_index, obj_subsystem) and instance_exists(target.container) and target.container.shielded>0){
+	if(object_is_ancestor(target.object_index, obj_subsystem)){
 		target.ion=true;
 	}
 }
