@@ -7,6 +7,9 @@ if (instance_exists(target)){
 	}
 	else{
 		target.hp-= 1/max_duration
+		if (target.hp <= 0) {
+			audio_play_sound(snd_destruction, 1, false);
+		}
 	}
 }
 if (duration==0){

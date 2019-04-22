@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "423b4e28-cb31-45b7-97ed-e95e1e31abf3",
+            "Value": {
+                "id": "6cc656ee-9477-4cf8-a007-adcab44f08e9",
+                "resourcePath": "sounds\\snd_laser\\snd_laser.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "433a203b-cb52-4e75-80df-766d4d74a9b6",
             "Value": {
                 "id": "7784d6c0-d340-4a74-bf66-6b6303f82c8e",
@@ -284,6 +292,14 @@
                 "id": "eca458c1-8f65-4fff-b035-7af19bb5cb98",
                 "resourcePath": "objects\\obj_enemy_laser_minion\\obj_enemy_laser_minion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4729e10e-0241-4687-bea7-256a2fcb936d",
+            "Value": {
+                "id": "7eef749c-33a8-4e02-905e-bbacbe9df471",
+                "resourcePath": "sounds\\snd_ion\\snd_ion.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -324,6 +340,14 @@
                 "id": "3ce0cde2-8432-4502-8561-c21c612c45d0",
                 "resourcePath": "sprites\\spr_tower_ion\\spr_tower_ion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bf80f6f-b622-48aa-afb7-c4537186451a",
+            "Value": {
+                "id": "5f362557-f943-427e-8fb0-a485a2b6d6e5",
+                "resourcePath": "sounds\\snd_destruction\\snd_destruction.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -588,6 +612,14 @@
                 "id": "12b74abf-289e-4c7a-8b57-e32ad163806d",
                 "resourcePath": "views\\a98f4b14-3fc0-4e3b-8ab1-3ad407044adc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab3f8aa8-9fe7-4787-8edb-a9a070142a2a",
+            "Value": {
+                "id": "d40083f5-07f7-4e45-bc5b-619eb92e95e8",
+                "resourcePath": "sounds\\snd_healbeam\\snd_healbeam.yy",
+                "resourceType": "GMSound"
             }
         },
         {
