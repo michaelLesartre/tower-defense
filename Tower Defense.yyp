@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "09e2dd93-6832-41d6-b7bc-6dd1e1e9d3e3",
+            "Value": {
+                "id": "62030ddc-d3a6-4ceb-a8c3-b7d7f1e9ca39",
+                "resourcePath": "objects\\obj_repair_system_boss\\obj_repair_system_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c14dac8-248c-4998-b82a-3a8105d4ca2b",
             "Value": {
                 "id": "846b9c52-468b-4e18-af4a-4f7df4ecddac",
                 "resourcePath": "views\\0c14dac8-248c-4998-b82a-3a8105d4ca2b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0c4a9657-5ef0-49e4-bb66-98c2744175a7",
+            "Value": {
+                "id": "80def6ab-abcc-43ec-a46b-a9fe6866ef4a",
+                "resourcePath": "sprites\\spr_shield_boss\\spr_shield_boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -87,6 +103,14 @@
             }
         },
         {
+            "Key": "16150d4d-c086-4e9f-8ce2-1e041ce0caf7",
+            "Value": {
+                "id": "36607e70-3d2a-47e0-a88c-2b6d4c8477ca",
+                "resourcePath": "objects\\obj_enemy_boss\\obj_enemy_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16dabe4b-ab86-4939-bce5-cc79f21bbf3a",
             "Value": {
                 "id": "8bd981ac-d572-4d91-a9b5-0b18c8ef0b98",
@@ -99,6 +123,14 @@
             "Value": {
                 "id": "72f43237-264b-461e-b4b7-7d4216f3df99",
                 "resourcePath": "sprites\\spr_ground\\spr_ground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1803a974-9943-418f-a950-93d05daa2b16",
+            "Value": {
+                "id": "614c8bc0-c82b-4e5d-9c77-10788f4cd109",
+                "resourcePath": "sprites\\spr_drive_boss\\spr_drive_boss.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,6 +207,14 @@
             }
         },
         {
+            "Key": "2c513a43-f5ac-4768-9a33-4d22260901e8",
+            "Value": {
+                "id": "7afbbedb-1b7d-4b17-98e2-72609e2dbc2f",
+                "resourcePath": "timelines\\Level_boss\\Level_boss.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "2d9b939e-ff33-4de3-aed1-6880d817cd7c",
             "Value": {
                 "id": "bfdeda70-9661-42da-86aa-312a0eb435dc",
@@ -204,6 +244,14 @@
                 "id": "d65dcba0-4d19-4619-b99e-521b00b58e93",
                 "resourcePath": "rooms\\room2\\room2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3673be6c-4ab4-4788-9206-5386c6d4b1e6",
+            "Value": {
+                "id": "16d73b98-094d-4a2e-a528-fb0051e0bf63",
+                "resourcePath": "objects\\obj_spawn_boss\\obj_spawn_boss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +327,14 @@
             }
         },
         {
+            "Key": "455f2e46-f300-4c87-b625-36d830cb8982",
+            "Value": {
+                "id": "06d18ec0-4f38-4ccd-9a8c-7ff514b97a6d",
+                "resourcePath": "rooms\\room_boss\\room_boss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "45bc3630-d12b-4e49-b1c1-7c8200dd9307",
             "Value": {
                 "id": "afe3b413-aab8-4921-9594-14b43506cff7",
@@ -331,6 +387,14 @@
             "Value": {
                 "id": "2f361cb5-c98d-4fdb-ae54-2b366ba045d3",
                 "resourcePath": "objects\\obj_shield_system\\obj_shield_system.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "55bad31b-b8f4-4f39-8f74-15e5b16b71a2",
+            "Value": {
+                "id": "34fb7213-07f6-42fb-8e32-10d368138ee8",
+                "resourcePath": "objects\\obj_enemy_laser_boss\\obj_enemy_laser_boss.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -519,6 +583,14 @@
             }
         },
         {
+            "Key": "7ab5a2f9-567b-43bc-8aca-6a386bc2ef72",
+            "Value": {
+                "id": "bc2ac940-ec53-4630-81a6-d5fa84ef4a87",
+                "resourcePath": "sprites\\spr_laser_boss\\spr_laser_boss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "825c1ae4-73f3-4677-8d2c-1b632a031724",
             "Value": {
                 "id": "02ea911b-dc7b-4c65-9f8c-cbfcd0f0c94d",
@@ -571,6 +643,14 @@
             "Value": {
                 "id": "65dfd8a9-1918-4fd4-97fb-2c9cd1128525",
                 "resourcePath": "objects\\obj_tower_laser\\obj_tower_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9ef64166-5dfc-4389-a028-04a38c835466",
+            "Value": {
+                "id": "a6e6bb27-a17d-402c-99c8-3a8c2893653f",
+                "resourcePath": "objects\\obj_drive_boss\\obj_drive_boss.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -708,6 +788,14 @@
                 "id": "8f09f175-e8a1-455a-92d4-d78df11162bb",
                 "resourcePath": "sprites\\spr_tower_wall_d\\spr_tower_wall_d.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c116746d-5176-48f5-83b9-88f2c9f2fa31",
+            "Value": {
+                "id": "3d260027-a8f0-4ed0-a3d4-0fe3a8e85fcc",
+                "resourcePath": "paths\\path3\\path3.yy",
+                "resourceType": "GMPath"
             }
         },
         {
